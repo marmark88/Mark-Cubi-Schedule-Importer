@@ -5,11 +5,4 @@ What I did for my project was create another class called student, which is deri
 operator overloading to read in a file of student name and course CRNs and store it into the Student class. The program then outputs each students name along 
 with the CRN of the courses they are taking using the << overloading. 
 
-Here are the things I think I earned credit for:
-+1 << overloading (in the Student.h/Student.cpp file to output contents of each student object)
-+1 >> overloading (in the Student.h/Student.cpp file to parse each line input to store a name and class CRNs)
-+1 Inheritence (in the Student.h file, Student class inherets from UnivMember class)
-+1 Uploaded and shared repository on GitHub
-+1 (Technically used friend function in overloading << in Student.h/Student.cpp)
-
 Thanks!
